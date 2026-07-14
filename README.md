@@ -40,14 +40,14 @@ Tornar-me desenvolvedor web e evoluir para engenharia de software.
 ---
 
 ## 📂 Projetos
-- 🌐 Portfólio: https://github.com/Luzolomampassi
+- 🌐 Portfólio:https://luzolomampassi.github.io/Projectos-HTML-CSS-Javascript1/
 - 📁 Repositórios: https://github.com/Luzolomampassi?tab=repositories
 
 ---
 
 ## 🔗 Links úteis
 - GitHub: https://github.com/Luzolomampassi
-- LinkedIn: https://www.linkedin.com/in/SEU_LINK (opcional)
+- Instagram:https://www.instagram.com/
 
 ---
 
