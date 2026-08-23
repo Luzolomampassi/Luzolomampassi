@@ -21,7 +21,9 @@ Tornar-me desenvolvedor web e evoluir para engenharia de software.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Back-end / Lógica
+### Back-end / Programação
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Ferramentas
@@ -37,10 +39,19 @@ Tornar-me desenvolvedor web e evoluir para engenharia de software.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzolomampassi&layout=compact&theme=tokyonight)
 
+O que estou estudando
+JavaScript básico → intermediário
+Funções e lógica de programação
+DOM e manipulação de elementos
+Eventos e interatividade
+Arrays e métodos de arrays
+PHP e fundamentos de back-end
+Git e GitHub
+Desenvolvimento de projetos práticos
 ---
 
 ## 📂 Projetos
-- 🌐 Portfólio:https://luzolomampassi.github.io/Projectos-HTML-CSS-Javascript1/
+- 🌐 Portfólio:https://luzolomampassi.github.io/web-dev-projects/
 - 📁 Repositórios: https://github.com/Luzolomampassi?tab=repositories
 
 ---
