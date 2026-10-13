@@ -1,68 +1,33 @@
-## Hi there 👋
-# 👋 Olá, eu sou estudante de programação
+# Olá, eu sou Luzolo Mampassi 👋
 
-## 🚀 Sobre mim
-- Estudante de desenvolvimento web e programação
-- Foco em HTML, CSS, JavaScript e Python
-- Interesse em engenharia de software e IA
-- Uso Git e GitHub + VS Code no dia a dia
+Sou estudante de desenvolvimento web e estou construindo projetos práticos para evoluir em front-end e back-end. Gosto de transformar ideias em páginas funcionais e aprender fazendo.
 
----
+## Sobre mim
 
-## 🧠 Objetivo
-Tornar-me desenvolvedor web e evoluir para engenharia de software.
+- Atualmente estudo JavaScript, PHP e fundamentos de programação.
+- Desenvolvo interfaces responsivas com HTML e CSS.
+- Também exploro Python e desenvolvimento de jogos com Unity e C#.
+- Uso Git e GitHub para organizar e compartilhar meus projetos.
 
----
+## Tecnologias
 
-## 💻 Tecnologias
+**Web:** HTML5 · CSS3 · JavaScript · PHP  
+**Outras áreas:** Python · C# · Unity  
+**Ferramentas:** Git · GitHub · VS Code
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Projetos em destaque
 
-### Back-end / Programação
+- **[Meu portfólio](https://luzolomampassi.github.io/web-dev-projects/)** — projetos web, filtros, pesquisa e formulário de contato.
+- **[Web Dev Projects](https://github.com/Luzolomampassi/web-dev-projects)** — código e evolução do meu portfólio.
+- **[Curso em Vídeo: HTML e CSS](https://github.com/Luzolomampassi/Curso-em-video-Html-e-CSS)** — exercícios e estudos de desenvolvimento web.
+- **[Game Dev Project](https://github.com/Luzolomampassi/game-dev-project)** — projeto de jogo 2D com Unity e C#.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## No momento
 
-### Ferramentas
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Estou aprofundando JavaScript, lógica de programação, manipulação do DOM e PHP, enquanto continuo construindo e melhorando projetos próprios.
 
----
+## Contato
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Luzolomampassishow_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzolomampassi&layout=compact&theme=tokyonight)
-
-O que estou estudando
-JavaScript básico → intermediário
-Funções e lógica de programação
-DOM e manipulação de elementos
-Eventos e interatividade
-Arrays e métodos de arrays
-PHP e fundamentos de back-end
-Git e GitHub
-Desenvolvimento de projetos práticos
----
-
-## 📂 Projetos
-- 🌐 Portfólio:https://luzolomampassi.github.io/web-dev-projects/
-- 📁 Repositórios: https://github.com/Luzolomampassi?tab=repositories
-
----
-
-## 🔗 Links úteis
-- GitHub: https://github.com/Luzolomampassi
-- Instagram:https://www.instagram.com/
-
----
-
-## 🎯 Foco atual
-- JavaScript básico → intermediário
-- Projetos reais (portfólio)
-- Lógica de programação
+- [LinkedIn](https://www.linkedin.com/in/luzolo-mampassi-56265b437/)
+- [Instagram](https://www.instagram.com/luzolomampassi8/)
+- [GitHub](https://github.com/Luzolomampassi)
